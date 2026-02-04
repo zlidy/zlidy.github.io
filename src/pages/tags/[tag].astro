@@ -3,10 +3,9 @@ import PostList from "@components/stalux/posts/postList.astro";
 import TagHeader from "@components/stalux/tags/tagHeader.astro";
 import { getCollection, type CollectionEntry } from "astro:content";
 import Stalux from "@layouts/Stalux.astro";
-import dayjs from "dayjs";
-import utc from "dayjs/plugin/utc";
-dayjs.extend(utc);
+import dayjs from "dayjs"; // 仅保留核心 dayjs，无 utc 插件
 import Navs from "@components/stalux/layout/navs.astro";
+
 const stalux = (await getCollection("config"))[0].data;
 
 export async function getStaticPaths() {
@@ -37,9 +36,8 @@ export async function getStaticPaths() {
             tag,
             count: entry.posts.length,
             posts: entry.posts,
-            lastUpdateDate: dayjs
-                .utc(entry.latestTime)
-                .format("YYYY年MM月DD日"),
+            // 无 utc() 调用，直接格式化日期
+            lastUpdateDate: dayjs(entry.latestTime).format("YYYY年MM月DD日"),
         },
     }));
 }
