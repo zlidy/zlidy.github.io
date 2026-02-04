@@ -22,6 +22,28 @@ Link: https://stalux.needhelp.icu/posts/asdasdasd/
 
 ----
 
+Title: 自动化测试的 4 个层次
+Link: https://stalux.needhelp.icu/posts/软件测试自学站/
+
+自动化测试的 4 个层次自动化测试4 大层次华测教育 - 三丰老师学习目标自动化测试能力的差异，本质是价值创造层级的差异。更高的等级意味着你能解决更复杂的问题，承担更重要的职责，从而创造更大的价值。认知升级​：跳出“会不会写代码脚本”的层面，从“解决...
+
+----
+
+Title: 好看的博客主题
+Link: https://stalux.needhelp.icu/posts/好看的博客主题/
+
+好看的博客主题，以下都是源作者@张洪 Heo 授权的开源主题halo-theme-hao (https://github.com/liuzhihang/halo-theme-hao)（基于Halo）
+Hexo-theme-solitude (htt...
+
+----
+
+Title: 【Python】7天学会编程
+Link: https://stalux.needhelp.icu/posts/【Python】7天学会编程/
+
+【Python】7天学会编程配套视频教程目标：掌握 Python3 环境搭建、PyCharm 基本配置与操作，简单了解辅助 Python 编程的 AI 工具。掌握 Python 基础语法规则和常见基本数据类型。熟悉 Python 中常用的几种基础数据...
+
+----
+
 Title: 5个免费国产WordPress主题
 Link: https://stalux.needhelp.icu/posts/5个免费国产WordPress主题/
 
