@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Stalux博客主题</title><description>博客主题Stalux - 为内容创作者提供的专业展示平台，支持多种自定义功能，包含评论系统集成、友情链接管理、社交媒体分享和丰富的SEO优化选项，让您的内容更具吸引力和可发现性。</description><link>https://stalux.needhelp.icu/</link><language>zh-cn</language><item><title>自定义head与header导航</title><link>https://stalux.needhelp.icu/posts/0035a0ee/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/0035a0ee/</guid><description>head 自定义与分析工具使用 config.yml 的 head 字段配置网站分析工具（Google Analytics、Bing Clarity、Umami）和自定义头部内容：head:
+  # Google Analytics 4 跟踪 ID...</description><pubDate>Sat, 10 May 2025 04:00:00 GMT</pubDate><category>主题配置</category><category>布局定制</category></item><item><title>Stalux 主题配置总览</title><link>https://stalux.needhelp.icu/posts/0b563d42/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/0b563d42/</guid><description>配置文件位置主配置: config.yml配置结构定义: src/content.config.ts其他专题说明: 位于 stalux/posts 下的 _config_*.md当前默认配置（摘录）stalux:
+  title: &quot;Stalux博...</description><pubDate>Sat, 10 May 2025 02:00:00 GMT</pubDate><category>主题配置</category></item><item><title>5个免费国产WordPress主题</title><link>https://stalux.needhelp.icu/posts/5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%9B%BD%E4%BA%A7WordPress%E4%B8%BB%E9%A2%98/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/5%E4%B8%AA%E5%85%8D%E8%B4%B9%E5%9B%BD%E4%BA%A7WordPress%E4%B8%BB%E9%A2%98/</guid><description>5个免费国产WordPress主题1.丸子资讯主题丸子资讯主题是由丸子团队基于WordPress开发的一款新闻资讯、博客网站类主题，主题带有SEO优化机制和完善的用户中心、付费订阅等功能。图片**优点：**完全免费、代码全开源（注释清晰，无加密）、响...</description><pubDate>Sun, 11 May 2025 12:00:00 GMT</pubDate><category>wordpress</category></item><item><title>图片灯箱测试</title><link>https://stalux.needhelp.icu/posts/asdasdasd/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/asdasdasd/</guid><description>以下为大量测试图片链接（使用 https://picsum.photos 占位图服务），可用于验证灯箱（PhotoSwipe）加载与懒加载表现：图 1
+图 2
+图 3
+图 4
+图 5
+图 6
+图 7
+图 8
+图 9
+图 10
+图 ...</description><pubDate>Tue, 16 Dec 2025 03:00:00 GMT</pubDate><category>主题测试</category></item><item><title>markdown渲染示例</title><link>https://stalux.needhelp.icu/posts/2cb4f19c/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/2cb4f19c/</guid><description>Markdown 语法全面指南基本语法标题一级标题二级标题三级标题四级标题五级标题六级标题强调斜体 或 斜体
+粗体 或 粗体
+粗斜体 或 粗斜体
+删除线
+&lt;u&gt;下划线&lt;/u&gt;列表无序列表项目1项目2项目3有序列表项目1项目2项目3任务列表已完...</description><pubDate>Sun, 11 May 2025 12:00:00 GMT</pubDate><category>markdown</category></item><item><title>页脚配置详解</title><link>https://stalux.needhelp.icu/posts/dd30cf92/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/dd30cf92/</guid><description>概要页脚字段来自 config.yml 的 footer 节，默认值如下，发布后不依赖项目内相对链接：footer:
+  buildtime: &quot;2025-05-01T10:00:00&quot;
+  copyright:
+    enabled: tr...</description><pubDate>Sat, 10 May 2025 07:00:00 GMT</pubDate><category>主题配置</category></item><item><title>乱数假文</title><link>https://stalux.needhelp.icu/posts/asddsa/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/asddsa/</guid><description>这篇文章只是用来检查一下时区是否正确???乱数假文测试Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisl eget ultricies ultri...</description><pubDate>Thu, 01 Jan 2026 03:11:11 GMT</pubDate><category>假文</category></item><item><title>站点基本信息</title><link>https://stalux.needhelp.icu/posts/ad81245d/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/ad81245d/</guid><description>主要文件结构stalux/
+├── public/  # 公共资源文件夹
+├── src/
+│   ├── assets/  #静态资源,一般不动
+│   ├── components/ # 组件
+│   │   └── stalux/ #...</description><pubDate>Sat, 10 May 2025 03:00:00 GMT</pubDate><category>主题配置</category></item><item><title>代码显示配置</title><link>https://stalux.needhelp.icu/posts/55a885fa/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/55a885fa/</guid><description>代码显示配置Stalux主题使用Expressive Code提供强大的代码显示功能，包括语法高亮、编辑器/终端框架和自动换行等功能。本文将介绍如何配置和使用这些功能。语法高亮Expressive Code使用与VS Code相同的Shiki引擎提供...</description><pubDate>Sat, 10 May 2025 03:30:00 GMT</pubDate><category>主题配置</category></item><item><title>我的</title><link>https://stalux.needhelp.icu/posts/%E6%88%91%E7%9A%84/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/%E6%88%91%E7%9A%84/</guid><description>DNSHEClient Area - DNSHE​	└─804158010@qq.com​		└─zhangcurry.cc.cd        zhangcurry.us.ci  	xinqiji.cc.cd​	└─1393565260@qq.co...</description><pubDate>Sun, 11 May 2025 12:00:00 GMT</pubDate><category>我的</category></item><item><title>Waline 评论系统配置</title><link>https://stalux.needhelp.icu/posts/f4442947/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/f4442947/</guid><description>概要Waline 是默认集成的评论系统，本篇按当前 config.yml 的值重写，说明每个字段、常见修改和部署要点。当前默认配置comment:
+  enabled: false
+  waline:
+    serverURL: &quot;https...</description><pubDate>Sat, 10 May 2025 06:00:00 GMT</pubDate><category>主题配置</category></item><item><title>Markdown文件配置参考</title><link>https://stalux.needhelp.icu/posts/f31dae4f/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/f31dae4f/</guid><description>概要本篇按照当前 schema（见 src/content.config.ts）重写，列出 posts 与 about 的 frontmatter 要求及示例。避免使用项目内相对链接，确保发布到站点时不会出现无效链接。posts/*.md front...</description><pubDate>Sat, 10 May 2025 08:00:00 GMT</pubDate><category>主题配置</category></item><item><title>打字配置与社交媒体链接</title><link>https://stalux.needhelp.icu/posts/8e8c59c4/</link><guid isPermaLink="true">https://stalux.needhelp.icu/posts/8e8c59c4/</guid><description>概要本篇对照当前 config.yml 重写，涵盖首页打字动效 (typetexts) 和社交媒体链接 (mediaLinks) 的配置与注意事项。打字动效配置首页打字机动效使用字符串数组，随机显示：typetexts:
+  - &quot;Free for...</description><pubDate>Sat, 10 May 2025 05:00:00 GMT</pubDate><category>主题配置</category></item></channel></rss>
