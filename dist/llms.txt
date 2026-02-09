@@ -5,6 +5,13 @@ Link: https://stalux.needhelp.icu/posts/asddsa/
 
 ----
 
+Title: iStoreNext
+Link: https://stalux.needhelp.icu/posts/iStoreNext/
+
+系统介绍新一代路由存储操作系统 —— iStoreNext。这是一个融合「路由 + 存储 + 应用 + 运维」的一体化系统，采用全新的桌面式交互设计，同时兼顾新手易用性与专业玩家的深度配置需求。iStoreNext 提供类似 Windows / ma...
+
+----
+
 Title: 图片灯箱测试
 Link: https://stalux.needhelp.icu/posts/asdasdasd/
 
